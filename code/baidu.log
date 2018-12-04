@@ -1,0 +1,1050 @@
+2018-12-01 15:26:09 engine.py [line:26] INFO: Start time : 2018-12-01 15:26:09.144000
+2018-12-01 15:26:09 engine.py [line:31] INFO: End time : 2018-12-01 15:26:09.196000
+2018-12-01 15:26:09 engine.py [line:34] INFO: Using time : 0.052 sec
+2018-12-01 16:08:07 engine.py [line:28] INFO: Start time : 2018-12-01 16:08:07.692000
+2018-12-01 16:08:08 engine.py [line:33] INFO: End time : 2018-12-01 16:08:08.421000
+2018-12-01 16:08:08 engine.py [line:36] INFO: Using time : 0.729 sec
+2018-12-01 16:08:45 engine.py [line:28] INFO: Start time : 2018-12-01 16:08:45.743000
+2018-12-01 16:08:47 engine.py [line:33] INFO: End time : 2018-12-01 16:08:47.973000
+2018-12-01 16:08:47 engine.py [line:36] INFO: Using time : 2.23 sec
+2018-12-01 16:21:41 engine.py [line:28] INFO: Start time : 2018-12-01 16:21:41.851000
+2018-12-01 16:22:07 engine.py [line:28] INFO: Start time : 2018-12-01 16:22:07.683000
+2018-12-01 16:22:07 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 16:22:07 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 16:22:07 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 16:22:08 engine.py [line:33] INFO: End time : 2018-12-01 16:22:08.484000
+2018-12-01 16:22:08 engine.py [line:36] INFO: Using time : 0.801 sec
+2018-12-01 17:12:36 engine.py [line:28] INFO: Start time : 2018-12-01 17:12:36.798000
+2018-12-01 17:12:36 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:12:36 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:13:55 engine.py [line:28] INFO: Start time : 2018-12-01 17:13:55.139000
+2018-12-01 17:13:55 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:13:55 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:14:49 engine.py [line:28] INFO: Start time : 2018-12-01 17:14:49.877000
+2018-12-01 17:14:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:14:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:14:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-01 17:14:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-01 17:14:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-01 17:14:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-01 17:14:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-01 17:14:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-01 17:14:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-01 17:14:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-01 17:15:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 17:15:58 engine.py [line:28] INFO: Start time : 2018-12-01 17:15:58.705000
+2018-12-01 17:15:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:16:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:16:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-01 17:16:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-01 17:16:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-01 17:16:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-01 17:16:08 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-01 17:16:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-01 17:16:22 engine.py [line:28] INFO: Start time : 2018-12-01 17:16:22.020000
+2018-12-01 17:16:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:16:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:16:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 17:16:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 17:16:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 17:16:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 17:16:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 17:16:35 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 17:16:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 17:16:39 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 17:16:41 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2018-12-01 17:16:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2131459/>
+2018-12-01 17:16:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3011091/>
+2018-12-01 17:16:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3793023/>
+2018-12-01 17:16:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292001/>
+2018-12-01 17:16:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291549/>
+2018-12-01 17:16:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292213/>
+2018-12-01 17:16:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292064/>
+2018-12-01 17:16:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291841/>
+2018-12-01 17:17:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1889243/>
+2018-12-01 17:17:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291560/>
+2018-12-01 17:17:05 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/5912992/>
+2018-12-01 17:17:07 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1307914/>
+2018-12-01 17:17:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1849031/>
+2018-12-01 17:17:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/6786002/>
+2018-12-01 17:17:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3319755/>
+2018-12-01 17:17:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1300267/>
+2018-12-01 17:17:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/25662329/>
+2018-12-01 17:17:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1851857/>
+2018-12-01 17:17:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291828/>
+2018-12-01 17:17:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292365/>
+2018-12-01 17:17:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1929463/>
+2018-12-01 17:17:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293182/>
+2018-12-01 17:17:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291858/>
+2018-12-01 17:17:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291552/>
+2018-12-01 17:17:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1296141/>
+2018-12-01 17:17:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292000/>
+2018-12-01 17:17:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291583/>
+2018-12-01 17:17:34 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2129039/>
+2018-12-01 17:17:35 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299398/>
+2018-12-01 17:17:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293839/>
+2018-12-01 17:17:38 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/26387939/>
+2018-12-01 17:17:39 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1900841/>
+2018-12-01 17:17:40 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/21937445/>
+2018-12-01 17:17:41 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293350/>
+2018-12-01 17:17:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1298624/>
+2018-12-01 17:17:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1308807/>
+2018-12-01 17:17:45 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292224/>
+2018-12-01 17:17:46 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291548/>
+2018-12-01 17:17:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1309046/>
+2018-12-01 17:17:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3442220/>
+2018-12-01 17:17:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299131/>
+2018-12-01 17:17:50 engine.py [line:33] INFO: End time : 2018-12-01 17:17:50.519000
+2018-12-01 17:17:50 engine.py [line:36] INFO: Using time : 88.499 sec
+2018-12-01 17:33:40 engine.py [line:29] INFO: Start time : 2018-12-01 17:33:40.746000
+2018-12-01 17:33:40 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:33:40 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:33:56 engine.py [line:29] INFO: Start time : 2018-12-01 17:33:56.449000
+2018-12-01 17:33:56 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:33:56 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:34:45 engine.py [line:29] INFO: Start time : 2018-12-01 17:34:45.947000
+2018-12-01 17:34:45 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:34:46 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:34:46 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 17:34:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:34:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:34:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 17:34:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 17:34:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 17:34:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 17:34:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 17:35:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 17:35:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 17:35:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 17:35:08 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2018-12-01 17:35:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2131459/>
+2018-12-01 17:35:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3011091/>
+2018-12-01 17:35:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3793023/>
+2018-12-01 17:35:17 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292001/>
+2018-12-01 17:35:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291549/>
+2018-12-01 17:35:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292213/>
+2018-12-01 17:35:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292064/>
+2018-12-01 17:35:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291841/>
+2018-12-01 17:35:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1889243/>
+2018-12-01 17:35:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291560/>
+2018-12-01 17:35:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/5912992/>
+2018-12-01 17:35:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1307914/>
+2018-12-01 17:35:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1849031/>
+2018-12-01 17:35:35 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/6786002/>
+2018-12-01 17:35:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3319755/>
+2018-12-01 17:35:39 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1300267/>
+2018-12-01 17:35:41 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/25662329/>
+2018-12-01 17:35:43 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1851857/>
+2018-12-01 17:35:45 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291828/>
+2018-12-01 17:35:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292365/>
+2018-12-01 17:35:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1929463/>
+2018-12-01 17:35:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293182/>
+2018-12-01 17:35:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291858/>
+2018-12-01 17:35:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291552/>
+2018-12-01 17:35:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1296141/>
+2018-12-01 17:35:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292000/>
+2018-12-01 17:35:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291583/>
+2018-12-01 17:35:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2129039/>
+2018-12-01 17:36:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299398/>
+2018-12-01 17:36:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293839/>
+2018-12-01 17:36:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/26387939/>
+2018-12-01 17:36:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1900841/>
+2018-12-01 17:36:05 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/21937445/>
+2018-12-01 17:36:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293350/>
+2018-12-01 17:36:07 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1298624/>
+2018-12-01 17:36:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1308807/>
+2018-12-01 17:36:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292224/>
+2018-12-01 17:36:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291548/>
+2018-12-01 17:36:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1309046/>
+2018-12-01 17:36:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3442220/>
+2018-12-01 17:36:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299131/>
+2018-12-01 17:36:15 engine.py [line:34] INFO: End time : 2018-12-01 17:36:15.853000
+2018-12-01 17:36:15 engine.py [line:37] INFO: Using time : 89.906 sec
+2018-12-01 17:41:31 engine.py [line:29] INFO: Start time : 2018-12-01 17:41:31.300000
+2018-12-01 17:41:31 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:41:31 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:41:31 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 17:41:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:41:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:41:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 17:41:34 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 17:41:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 17:41:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 17:41:38 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 17:41:40 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 17:41:41 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 17:41:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 17:51:54 engine.py [line:29] INFO: Start time : 2018-12-01 17:51:54.092000
+2018-12-01 17:51:54 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 17:51:54 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 17:51:54 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 17:51:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 17:51:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 17:51:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 17:51:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 17:52:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 17:52:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 17:52:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 17:52:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 17:52:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 17:52:08 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 17:52:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2018-12-01 18:03:48 engine.py [line:31] INFO: Start time : 2018-12-01 18:03:48.383000
+2018-12-01 18:03:48 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:03:48 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:04:41 engine.py [line:31] INFO: Start time : 2018-12-01 18:04:41.352000
+2018-12-01 18:04:41 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:04:41 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:04:41 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 18:04:43 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 18:04:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 18:04:46 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 18:04:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 18:04:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 18:04:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 18:04:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 18:04:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 18:04:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 18:04:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 18:05:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2018-12-01 18:22:24 engine.py [line:35] INFO: Start time : 2018-12-01 18:22:24.614000
+2018-12-01 18:22:24 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:23:40 engine.py [line:35] INFO: Start time : 2018-12-01 18:23:40.374000
+2018-12-01 18:23:40 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:25:15 engine.py [line:35] INFO: Start time : 2018-12-01 18:25:15.451000
+2018-12-01 18:25:15 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:25:24 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:25:46 engine.py [line:35] INFO: Start time : 2018-12-01 18:25:46.587000
+2018-12-01 18:25:46 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:25:46 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:25:46 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 18:54:50 engine.py [line:79] INFO: Start time : 2018-12-01 18:54:50.604000
+2018-12-01 18:54:50 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:54:50 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:54:51 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 18:54:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 18:54:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 18:54:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 18:54:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 18:54:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 18:55:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 18:55:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 18:55:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 18:55:23 engine.py [line:79] INFO: Start time : 2018-12-01 18:55:23.213000
+2018-12-01 18:55:23 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:55:23 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:55:23 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 18:55:24 engine.py [line:84] INFO: End time : 2018-12-01 18:55:24.140000
+2018-12-01 18:55:24 engine.py [line:87] INFO: Using time : 0.927 sec
+2018-12-01 18:55:35 engine.py [line:79] INFO: Start time : 2018-12-01 18:55:35.554000
+2018-12-01 18:55:35 scheduler.py [line:33] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-01 18:55:35 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-01 18:55:35 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-01 18:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-01 18:55:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-01 18:55:39 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-01 18:55:40 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-01 18:55:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-01 18:55:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-01 18:55:46 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-01 18:55:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-01 18:55:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-01 18:55:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-01 18:55:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3541415/>
+2018-12-01 18:55:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2131459/>
+2018-12-01 18:55:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3011091/>
+2018-12-01 18:55:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3793023/>
+2018-12-01 18:55:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292001/>
+2018-12-01 18:56:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291549/>
+2018-12-01 18:56:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292213/>
+2018-12-01 18:56:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292064/>
+2018-12-01 18:56:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291841/>
+2018-12-01 18:56:07 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1889243/>
+2018-12-01 18:56:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291560/>
+2018-12-01 18:56:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/5912992/>
+2018-12-01 18:56:13 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1307914/>
+2018-12-01 18:56:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1849031/>
+2018-12-01 18:56:16 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/6786002/>
+2018-12-01 18:56:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3319755/>
+2018-12-01 18:56:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1300267/>
+2018-12-01 18:56:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/25662329/>
+2018-12-01 18:56:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1851857/>
+2018-12-01 18:56:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291828/>
+2018-12-01 18:56:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292365/>
+2018-12-01 18:56:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1929463/>
+2018-12-01 18:56:35 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293182/>
+2018-12-01 18:56:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291858/>
+2018-12-01 18:56:38 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291552/>
+2018-12-01 18:56:40 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1296141/>
+2018-12-01 18:56:43 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292000/>
+2018-12-01 18:56:45 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291583/>
+2018-12-01 18:56:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/2129039/>
+2018-12-01 18:56:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299398/>
+2018-12-01 18:56:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293839/>
+2018-12-01 18:56:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/26387939/>
+2018-12-01 18:56:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1900841/>
+2018-12-01 18:57:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/21937445/>
+2018-12-01 18:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1293350/>
+2018-12-01 18:57:05 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1298624/>
+2018-12-01 18:57:07 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1308807/>
+2018-12-01 18:57:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292224/>
+2018-12-01 18:57:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291548/>
+2018-12-01 18:57:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1309046/>
+2018-12-01 18:57:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/3442220/>
+2018-12-01 18:57:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1299131/>
+2018-12-01 18:57:16 engine.py [line:84] INFO: End time : 2018-12-01 18:57:16.830000
+2018-12-01 18:57:16 engine.py [line:87] INFO: Using time : 101.276 sec
+2018-12-03 15:49:18 engine.py [line:76] INFO: Start time : 2018-12-03 15:49:18.637000
+2018-12-03 15:50:40 engine.py [line:76] INFO: Start time : 2018-12-03 15:50:40.444000
+2018-12-03 15:50:58 engine.py [line:76] INFO: Start time : 2018-12-03 15:50:58.675000
+2018-12-03 15:50:58 scheduler.py [line:42] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 15:51:27 engine.py [line:76] INFO: Start time : 2018-12-03 15:51:27.939000
+2018-12-03 15:51:27 scheduler.py [line:42] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 15:51:27 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 15:51:28 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 15:51:28 engine.py [line:81] INFO: End time : 2018-12-03 15:51:28.500000
+2018-12-03 15:51:28 engine.py [line:84] INFO: Using time : 0.561 sec
+2018-12-03 15:55:29 engine.py [line:76] INFO: Start time : 2018-12-03 15:55:29.605000
+2018-12-03 15:55:29 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 15:55:29 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 15:55:29 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 15:55:30 engine.py [line:81] INFO: End time : 2018-12-03 15:55:30.350000
+2018-12-03 15:55:30 engine.py [line:84] INFO: Using time : 0.745 sec
+2018-12-03 15:57:06 engine.py [line:76] INFO: Start time : 2018-12-03 15:57:06.068000
+2018-12-03 15:57:06 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com/s>
+2018-12-03 15:57:07 downloader.py [line:40] INFO: [200] <http://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD>
+2018-12-03 15:57:08 engine.py [line:81] INFO: End time : 2018-12-03 15:57:08.967000
+2018-12-03 15:57:08 engine.py [line:84] INFO: Using time : 2.899 sec
+2018-12-03 15:57:41 engine.py [line:76] INFO: Start time : 2018-12-03 15:57:41.562080
+2018-12-03 15:57:41 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com/s>
+2018-12-03 15:57:42 downloader.py [line:40] INFO: [200] <http://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD>
+2018-12-03 15:57:44 engine.py [line:81] INFO: End time : 2018-12-03 15:57:44.004220
+2018-12-03 15:57:44 engine.py [line:84] INFO: Using time : 2.44214 sec
+2018-12-03 16:00:46 engine.py [line:76] INFO: Start time : 2018-12-03 16:00:46.615000
+2018-12-03 16:00:46 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com/s>
+2018-12-03 16:00:47 downloader.py [line:40] INFO: [200] <http://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD>
+2018-12-03 16:00:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:00:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:00:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292052/>
+2018-12-03 16:00:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291546/>
+2018-12-03 16:00:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295644/>
+2018-12-03 16:00:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292720/>
+2018-12-03 16:01:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292063/>
+2018-12-03 16:01:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1292722/>
+2018-12-03 16:01:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1291561/>
+2018-12-03 16:01:06 downloader.py [line:40] INFO: [200] <https://movie.douban.com/subject/1295124/>
+2018-12-03 16:03:08 engine.py [line:76] INFO: Start time : 2018-12-03 16:03:08.575000
+2018-12-03 16:03:08 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com/s>
+2018-12-03 16:03:09 downloader.py [line:40] INFO: [200] <http://www.baidu.com/s?wd=%E4%BD%A0%E5%A5%BD>
+2018-12-03 16:03:11 downloader.py [line:40] INFO: [200] <http://news.baidu.com/?wd=%E4%BD%A0%E5%A5%BD>
+2018-12-03 16:03:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:03:13 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:03:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:03:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:03:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:03:16 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:03:17 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:03:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:03:19 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:03:19 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:03:20 engine.py [line:81] INFO: End time : 2018-12-03 16:03:20.393000
+2018-12-03 16:03:20 engine.py [line:84] INFO: Using time : 11.818 sec
+2018-12-03 16:16:53 engine.py [line:83] INFO: Start time : 2018-12-03 16:16:53.141000
+2018-12-03 16:16:53 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:16:53 engine.py [line:106] INFO: Main Thread is over!
+2018-12-03 16:16:53 engine.py [line:88] INFO: End time : 2018-12-03 16:16:53.245000
+2018-12-03 16:16:53 engine.py [line:91] INFO: Using time : 0.104 sec
+2018-12-03 16:18:26 engine.py [line:83] INFO: Start time : 2018-12-03 16:18:26.341000
+2018-12-03 16:18:26 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:18:26 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:18:26 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:18:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:18:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:18:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:18:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:18:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:18:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:18:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:18:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:18:34 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:18:35 engine.py [line:107] INFO: Main Thread is over!
+2018-12-03 16:18:35 engine.py [line:88] INFO: End time : 2018-12-03 16:18:35.217000
+2018-12-03 16:18:35 engine.py [line:91] INFO: Using time : 8.876 sec
+2018-12-03 16:20:27 engine.py [line:83] INFO: Start time : 2018-12-03 16:20:27.016000
+2018-12-03 16:20:27 scheduler.py [line:43] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:20:27 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:20:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:20:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:20:39 engine.py [line:108] INFO: Main Thread is over!
+2018-12-03 16:20:39 engine.py [line:88] INFO: End time : 2018-12-03 16:20:39.918000
+2018-12-03 16:20:39 engine.py [line:91] INFO: Using time : 12.902 sec
+2018-12-03 16:55:35 engine.py [line:88] INFO: Start time : 2018-12-03 16:55:35.560000
+2018-12-03 16:55:35 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:55:35 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:55:36 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:55:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:55:37 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:55:37 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:55:53 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 16:55:53 engine.py [line:93] INFO: End time : 2018-12-03 16:55:53.014000
+2018-12-03 16:55:53 engine.py [line:96] INFO: Using time : 17.454 sec
+2018-12-03 16:57:02 engine.py [line:88] INFO: Start time : 2018-12-03 16:57:02.330000
+2018-12-03 16:57:02 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:57:02 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:57:02 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:57:03 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:57:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:57:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:57:04 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:57:18 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 16:57:18 engine.py [line:93] INFO: End time : 2018-12-03 16:57:18.495000
+2018-12-03 16:57:18 engine.py [line:96] INFO: Using time : 16.165 sec
+2018-12-03 16:57:27 engine.py [line:88] INFO: Start time : 2018-12-03 16:57:27.215000
+2018-12-03 16:57:27 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:57:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:57:41 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 16:57:41 engine.py [line:93] INFO: End time : 2018-12-03 16:57:41.534000
+2018-12-03 16:57:41 engine.py [line:96] INFO: Using time : 14.319 sec
+2018-12-03 16:58:21 engine.py [line:88] INFO: Start time : 2018-12-03 16:58:21.494131
+2018-12-03 16:58:21 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 16:58:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 16:58:30 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 16:58:30 engine.py [line:93] INFO: End time : 2018-12-03 16:58:30.556623
+2018-12-03 16:58:30 engine.py [line:96] INFO: Using time : 9.062492 sec
+2018-12-03 17:06:37 engine.py [line:88] INFO: Start time : 2018-12-03 17:06:37.671047
+2018-12-03 17:06:37 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:06:37 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:06:37 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:06:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:06:38 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 17:06:38 engine.py [line:93] INFO: End time : 2018-12-03 17:06:38.614988
+2018-12-03 17:06:38 engine.py [line:96] INFO: Using time : 0.943941 sec
+2018-12-03 17:18:31 engine.py [line:88] INFO: Start time : 2018-12-03 17:18:31.600807
+2018-12-03 17:18:31 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:18:31 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:18:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:18:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:18:32 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:18:37 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 17:18:37 engine.py [line:93] INFO: End time : 2018-12-03 17:18:37.831862
+2018-12-03 17:18:37 engine.py [line:96] INFO: Using time : 6.231055 sec
+2018-12-03 17:18:42 engine.py [line:88] INFO: Start time : 2018-12-03 17:18:42.642132
+2018-12-03 17:18:42 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:18:42 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:18:48 engine.py [line:124] INFO: Main Thread is over!
+2018-12-03 17:18:48 engine.py [line:93] INFO: End time : 2018-12-03 17:18:48.415617
+2018-12-03 17:18:48 engine.py [line:96] INFO: Using time : 5.773485 sec
+2018-12-03 17:31:51 engine.py [line:96] INFO: Start time : 2018-12-03 17:31:51.210000
+2018-12-03 17:31:51 engine.py [line:109] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:31:51 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:31:51 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:31:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:31:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:31:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:31:53 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:31:53 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:31:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:31:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:31:54 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:31:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:31:55 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:31:56 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:31:56 engine.py [line:136] INFO: Main Thread is over!
+2018-12-03 17:31:56 engine.py [line:101] INFO: End time : 2018-12-03 17:31:56.796000
+2018-12-03 17:31:56 engine.py [line:104] INFO: Using time : 5.586 sec
+2018-12-03 17:32:19 engine.py [line:96] INFO: Start time : 2018-12-03 17:32:19.227000
+2018-12-03 17:32:19 engine.py [line:109] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:32:19 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:32:19 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:32:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:32:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:32:20 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:32:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:32:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:32:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:32:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:32:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:32:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:32:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:32:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:32:25 engine.py [line:136] INFO: Main Thread is over!
+2018-12-03 17:32:25 engine.py [line:101] INFO: End time : 2018-12-03 17:32:25.177000
+2018-12-03 17:32:25 engine.py [line:104] INFO: Using time : 5.95 sec
+2018-12-03 17:32:36 engine.py [line:96] INFO: Start time : 2018-12-03 17:32:36.835000
+2018-12-03 17:32:36 engine.py [line:109] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:32:36 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:32:36 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:32:37 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:32:37 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:32:37 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:32:37 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:32:38 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:32:38 engine.py [line:136] INFO: Main Thread is over!
+2018-12-03 17:32:38 engine.py [line:101] INFO: End time : 2018-12-03 17:32:38.904000
+2018-12-03 17:32:38 engine.py [line:104] INFO: Using time : 2.069 sec
+2018-12-03 17:33:21 engine.py [line:96] INFO: Start time : 2018-12-03 17:33:21.920000
+2018-12-03 17:33:21 engine.py [line:109] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:33:21 scheduler.py [line:48] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:33:22 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:33:23 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:33:23 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:33:23 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:33:23 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:33:24 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:33:24 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:47:42 engine.py [line:95] INFO: Start time : 2018-12-03 17:47:42.718000
+2018-12-03 17:47:42 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:47:42 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:47:42 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:47:43 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:47:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:47:44 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:47:45 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:47:46 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:47:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:47:47 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:47:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:47:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:47:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:47:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:48:30 engine.py [line:95] INFO: Start time : 2018-12-03 17:48:30.904000
+2018-12-03 17:48:30 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:48:30 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:48:31 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:48:31 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:48:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:48:33 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:48:33 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:48:33 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:48:33 engine.py [line:135] INFO: Main Thread is over!
+2018-12-03 17:48:33 engine.py [line:100] INFO: End time : 2018-12-03 17:48:33.616000
+2018-12-03 17:48:33 engine.py [line:103] INFO: Using time : 2.712 sec
+2018-12-03 17:49:13 engine.py [line:95] INFO: Start time : 2018-12-03 17:49:13.662000
+2018-12-03 17:49:13 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:49:13 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:49:13 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:49:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:49:14 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:49:15 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:49:16 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:49:16 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:49:17 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:49:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:49:18 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:49:19 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:49:19 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:49:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:52:08 engine.py [line:95] INFO: Start time : 2018-12-03 17:52:08.763000
+2018-12-03 17:52:08 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:52:08 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:52:08 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:52:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:52:09 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:52:09 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:52:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:52:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:52:10 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:52:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:52:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:52:11 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:52:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:52:12 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:53:28 engine.py [line:95] INFO: Start time : 2018-12-03 17:53:28.545000
+2018-12-03 17:53:28 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:53:28 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:53:28 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:53:28 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:53:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:53:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:53:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:53:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:53:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:53:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:53:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:53:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:53:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:53:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:53:32 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 17:53:32 engine.py [line:100] INFO: End time : 2018-12-03 17:53:32.518000
+2018-12-03 17:53:32 engine.py [line:103] INFO: Using time : 3.973 sec
+2018-12-03 17:53:44 engine.py [line:95] INFO: Start time : 2018-12-03 17:53:44.926000
+2018-12-03 17:53:44 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:53:44 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:53:45 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:53:46 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:53:46 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:53:46 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 17:53:46 engine.py [line:100] INFO: End time : 2018-12-03 17:53:46.114000
+2018-12-03 17:53:46 engine.py [line:103] INFO: Using time : 1.188 sec
+2018-12-03 17:53:48 engine.py [line:95] INFO: Start time : 2018-12-03 17:53:48.237000
+2018-12-03 17:53:48 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:53:48 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:53:48 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:53:48 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 17:53:49 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 17:53:49 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 17:53:49 engine.py [line:100] INFO: End time : 2018-12-03 17:53:49.371000
+2018-12-03 17:53:49 engine.py [line:103] INFO: Using time : 1.134 sec
+2018-12-03 17:54:23 engine.py [line:95] INFO: Start time : 2018-12-03 17:54:23.236000
+2018-12-03 17:54:23 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 17:54:23 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 17:54:23 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 17:54:23 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 17:54:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 17:54:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 17:54:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 17:54:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 17:54:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 17:54:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 17:54:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 17:54:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 17:54:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 17:54:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 17:54:26 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 17:54:26 engine.py [line:100] INFO: End time : 2018-12-03 17:54:26.808000
+2018-12-03 17:54:26 engine.py [line:103] INFO: Using time : 3.572 sec
+2018-12-03 18:05:30 engine.py [line:95] INFO: Start time : 2018-12-03 18:05:30.979000
+2018-12-03 18:05:30 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:05:30 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 18:05:31 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 18:05:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 18:05:32 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:05:32 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:05:32 engine.py [line:100] INFO: End time : 2018-12-03 18:05:32.080000
+2018-12-03 18:05:32 engine.py [line:103] INFO: Using time : 1.101 sec
+2018-12-03 18:05:41 engine.py [line:95] INFO: Start time : 2018-12-03 18:05:41.075000
+2018-12-03 18:05:41 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:05:41 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 18:05:41 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 18:05:42 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 18:05:42 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 18:05:42 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 18:05:42 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 18:05:42 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:05:42 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:05:42 engine.py [line:100] INFO: End time : 2018-12-03 18:05:42.215000
+2018-12-03 18:05:42 engine.py [line:103] INFO: Using time : 1.14 sec
+2018-12-03 18:06:29 engine.py [line:95] INFO: Start time : 2018-12-03 18:06:29.083000
+2018-12-03 18:06:29 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:06:29 scheduler.py [line:58] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:06:29 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:06:29 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:06:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:06:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:06:30 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:06:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:06:31 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:06:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:06:32 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:06:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:06:33 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:06:34 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:06:34 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:06:34 engine.py [line:100] INFO: End time : 2018-12-03 18:06:34.621000
+2018-12-03 18:06:34 engine.py [line:103] INFO: Using time : 5.538 sec
+2018-12-03 18:19:55 engine.py [line:95] INFO: Start time : 2018-12-03 18:19:55.732000
+2018-12-03 18:19:55 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:19:55 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:19:55 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:19:56 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 18:19:57 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:19:57 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:19:57 engine.py [line:100] INFO: End time : 2018-12-03 18:19:57.362000
+2018-12-03 18:19:57 engine.py [line:103] INFO: Using time : 1.63 sec
+2018-12-03 18:20:20 engine.py [line:95] INFO: Start time : 2018-12-03 18:20:20.811000
+2018-12-03 18:20:20 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <http://news.baidu.com/>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:20:20 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:20:20 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:20:20 engine.py [line:100] INFO: End time : 2018-12-03 18:20:20.854000
+2018-12-03 18:20:20 engine.py [line:103] INFO: Using time : 0.043 sec
+2018-12-03 18:20:47 engine.py [line:95] INFO: Start time : 2018-12-03 18:20:47.808000
+2018-12-03 18:20:47 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:20:47 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:20:47 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:20:48 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:20:48 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:20:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:20:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:20:49 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:20:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:20:50 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:20:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:20:51 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:20:52 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:20:52 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:22:10 engine.py [line:95] INFO: Start time : 2018-12-03 18:22:10.608000
+2018-12-03 18:22:10 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:22:10 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:22:10 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D100>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D175>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D125>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D200>
+2018-12-03 18:22:11 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:22:12 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D75>
+2018-12-03 18:22:12 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D150>
+2018-12-03 18:22:12 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:22:12 engine.py [line:142] INFO: Main Thread is over!
+2018-12-03 18:22:12 engine.py [line:100] INFO: End time : 2018-12-03 18:22:12.518000
+2018-12-03 18:22:12 engine.py [line:103] INFO: Using time : 1.91 sec
+2018-12-03 18:29:36 engine.py [line:95] INFO: Start time : 2018-12-03 18:29:36.375000
+2018-12-03 18:29:36 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:30:20 engine.py [line:95] INFO: Start time : 2018-12-03 18:30:20.592000
+2018-12-03 18:30:20 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:31:51 engine.py [line:95] INFO: Start time : 2018-12-03 18:31:51.967000
+2018-12-03 18:31:51 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:31:52 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:33:20 engine.py [line:95] INFO: Start time : 2018-12-03 18:33:20.330000
+2018-12-03 18:33:20 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:33:24 engine.py [line:95] INFO: Start time : 2018-12-03 18:33:24.419000
+2018-12-03 18:33:24 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:33:55 engine.py [line:95] INFO: Start time : 2018-12-03 18:33:55.057000
+2018-12-03 18:33:55 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:33:55 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:33:55 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:33:55 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:33:56 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:33:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:33:57 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:33:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:33:58 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:33:59 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:34:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:34:00 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:34:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:34:01 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:34:40 engine.py [line:95] INFO: Start time : 2018-12-03 18:34:40.487000
+2018-12-03 18:34:40 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <http://news.baidu.com/>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:34:40 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:35:18 engine.py [line:95] INFO: Start time : 2018-12-03 18:35:18.709000
+2018-12-03 18:35:18 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:35:18 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:35:20 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:35:21 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:35:22 downloader.py [line:40] INFO: [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D225>
+2018-12-03 18:35:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:35:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:35:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:35:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:35:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:35:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:35:27 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:35:28 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:35:29 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:37:04 engine.py [line:95] INFO: Start time : 2018-12-03 18:37:04.725000
+2018-12-03 18:37:04 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com/>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <http://news.baidu.com/>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:37:04 scheduler.py [line:62] WARNING: Filter Request [GET] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:37:18 engine.py [line:95] INFO: Start time : 2018-12-03 18:37:18.608000
+2018-12-03 18:37:18 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:37:18 scheduler.py [line:62] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:37:18 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:37:19 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:37:19 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-12-03 18:37:20 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-12-03 18:37:21 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-12-03 18:37:22 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-12-03 18:37:23 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-12-03 18:37:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-12-03 18:37:24 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-12-03 18:37:25 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-12-03 18:37:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-12-03 18:37:26 downloader.py [line:40] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-12-03 18:54:30 engine.py [line:95] INFO: Start time : 2018-12-03 18:54:30.513000
+2018-12-03 18:54:30 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:54:52 engine.py [line:95] INFO: Start time : 2018-12-03 18:54:52.333000
+2018-12-03 18:54:52 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:54:52 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:54:52 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:54:52 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:54:53 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:54:53 engine.py [line:100] INFO: End time : 2018-12-03 18:54:53.229000
+2018-12-03 18:54:53 engine.py [line:103] INFO: Using time : 0.896 sec
+2018-12-03 18:55:01 engine.py [line:95] INFO: Start time : 2018-12-03 18:55:01.449000
+2018-12-03 18:55:01 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:55:01 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:55:01 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:55:01 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:55:02 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:55:02 engine.py [line:100] INFO: End time : 2018-12-03 18:55:02.283000
+2018-12-03 18:55:02 engine.py [line:103] INFO: Using time : 0.834 sec
+2018-12-03 18:55:14 engine.py [line:95] INFO: Start time : 2018-12-03 18:55:14.526000
+2018-12-03 18:55:14 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:55:14 scheduler.py [line:66] WARNING: Filter Request [GET] <http://www.baidu.com>
+2018-12-03 18:55:14 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:55:14 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:55:15 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:55:15 engine.py [line:100] INFO: End time : 2018-12-03 18:55:15.707000
+2018-12-03 18:55:15 engine.py [line:103] INFO: Using time : 1.181 sec
+2018-12-03 18:56:49 engine.py [line:95] INFO: Start time : 2018-12-03 18:56:49.611000
+2018-12-03 18:56:49 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:56:49 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:56:49 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:56:50 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:56:50 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:56:50 engine.py [line:100] INFO: End time : 2018-12-03 18:56:50.976000
+2018-12-03 18:56:50 engine.py [line:103] INFO: Using time : 1.365 sec
+2018-12-03 18:56:55 engine.py [line:95] INFO: Start time : 2018-12-03 18:56:55.977000
+2018-12-03 18:56:55 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:56:56 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:56:56 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:56:56 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:56:56 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:56:56 engine.py [line:100] INFO: End time : 2018-12-03 18:56:56.755000
+2018-12-03 18:56:56 engine.py [line:103] INFO: Using time : 0.778 sec
+2018-12-03 18:57:01 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:01.757000
+2018-12-03 18:57:01 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:01 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:01 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:02 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:02 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:02 engine.py [line:100] INFO: End time : 2018-12-03 18:57:02.718000
+2018-12-03 18:57:02 engine.py [line:103] INFO: Using time : 0.961 sec
+2018-12-03 18:57:07 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:07.718000
+2018-12-03 18:57:07 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:07 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:07 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:07 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:08 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:08 engine.py [line:100] INFO: End time : 2018-12-03 18:57:08.601000
+2018-12-03 18:57:08 engine.py [line:103] INFO: Using time : 0.883 sec
+2018-12-03 18:57:13 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:13.602000
+2018-12-03 18:57:13 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:13 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:13 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:13 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:14 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:14 engine.py [line:100] INFO: End time : 2018-12-03 18:57:14.285000
+2018-12-03 18:57:14 engine.py [line:103] INFO: Using time : 0.683 sec
+2018-12-03 18:57:19 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:19.286000
+2018-12-03 18:57:19 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:19 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:19 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:19 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:20 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:20 engine.py [line:100] INFO: End time : 2018-12-03 18:57:20.002000
+2018-12-03 18:57:20 engine.py [line:103] INFO: Using time : 0.716 sec
+2018-12-03 18:57:25 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:25.003000
+2018-12-03 18:57:25 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:25 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:25 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:25 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:25 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:25 engine.py [line:100] INFO: End time : 2018-12-03 18:57:25.725000
+2018-12-03 18:57:25 engine.py [line:103] INFO: Using time : 0.722 sec
+2018-12-03 18:57:30 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:30.726000
+2018-12-03 18:57:30 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:30 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:30 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:30 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:31 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:31 engine.py [line:100] INFO: End time : 2018-12-03 18:57:31.944000
+2018-12-03 18:57:31 engine.py [line:103] INFO: Using time : 1.218 sec
+2018-12-03 18:57:36 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:36.945000
+2018-12-03 18:57:36 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:36 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:36 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:37 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:37 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:37 engine.py [line:100] INFO: End time : 2018-12-03 18:57:37.612000
+2018-12-03 18:57:37 engine.py [line:103] INFO: Using time : 0.667 sec
+2018-12-03 18:57:42 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:42.612000
+2018-12-03 18:57:42 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:42 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:42 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:42 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:43 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:43 engine.py [line:100] INFO: End time : 2018-12-03 18:57:43.385000
+2018-12-03 18:57:43 engine.py [line:103] INFO: Using time : 0.773 sec
+2018-12-03 18:57:48 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:48.385000
+2018-12-03 18:57:48 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:48 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:48 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:48 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:49 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:49 engine.py [line:100] INFO: End time : 2018-12-03 18:57:49.215000
+2018-12-03 18:57:49 engine.py [line:103] INFO: Using time : 0.83 sec
+2018-12-03 18:57:54 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:54.217000
+2018-12-03 18:57:54 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:54 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:54 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:57:54 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:57:54 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:57:54 engine.py [line:100] INFO: End time : 2018-12-03 18:57:54.940000
+2018-12-03 18:57:54 engine.py [line:103] INFO: Using time : 0.723 sec
+2018-12-03 18:57:59 engine.py [line:95] INFO: Start time : 2018-12-03 18:57:59.941000
+2018-12-03 18:57:59 engine.py [line:108] INFO: ASYNC_TYPE : [coroutine]
+2018-12-03 18:57:59 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:58:00 downloader.py [line:40] INFO: [200] <http://www.baidu.com/>
+2018-12-03 18:58:00 downloader.py [line:40] INFO: [200] <http://news.baidu.com/>
+2018-12-03 18:58:00 engine.py [line:139] INFO: Main Thread is over!
+2018-12-03 18:58:00 engine.py [line:100] INFO: End time : 2018-12-03 18:58:00.719000
+2018-12-03 18:58:00 engine.py [line:103] INFO: Using time : 0.778 sec
